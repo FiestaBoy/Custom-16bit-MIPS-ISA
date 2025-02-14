@@ -1,7 +1,6 @@
+Overview
 
-This project is a custom 16-bit processor designed and implemented in Logisim as part of an Advanced Computer Science final project. 
-The processor is inspired by the MIPS architecture but features custom specifications and a unique instruction set. 
-The core processes binary-encoded instructions and executes them sequentially, utilizing components such as a register file, instruction memory, data memory, and an ALU.
+This project is a custom 16-bit processor designed and implemented in Logisim as part of an Advanced Computer Science final project. The processor is inspired by the MIPS architecture but features custom specifications and a unique instruction set. The core processes binary-encoded instructions and executes them sequentially, utilizing components such as a register file, instruction memory, data memory, and an ALU.
 
 ## Features
 - **16-bit word-addressable architecture**
