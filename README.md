@@ -92,21 +92,11 @@ This project is a custom 16-bit processor designed and implemented in Logisim as
 
 ### Writing Custom Programs
 - Instructions should be written in hexadecimal and stored in `.txt` files.
-- Use the format: `v2.0 raw` followed by space-separated hex values.
 - Example program:
   ```
-  v2.0 raw
   9080 1040 a400 2485 b288 045a c608 f002 0000
   ```
-
-## Submission Guidelines
-- Ensure the following files are submitted:
-  - `core.circ`
-  - `coretest1.txt` and `coretest2.txt`
-  - `explainer_document.pdf`
-- Follow naming conventions and design rules as per project requirements.
-- Validate functionality through extensive testing.
-
+  
 ## Future Enhancements
 - Implement pipelining for increased efficiency
 - Add an assembler to convert assembly code to binary
@@ -115,7 +105,3 @@ This project is a custom 16-bit processor designed and implemented in Logisim as
 
 ## Acknowledgments
 This project was developed for the **Advanced Computer Science 2023-24** course under the guidance of **Mr. Pratt**. Inspired by the MIPS architecture, it serves as an educational tool for learning computer architecture and processor design in Logisim.
-
----
-This README provides a comprehensive guide to the project, its architecture, and usage instructions. If you have any questions or need further clarification, feel free to reach out!
-
